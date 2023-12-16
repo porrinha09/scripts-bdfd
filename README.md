@@ -1,5 +1,6 @@
 # scripts-bdfd
 meus scripts para bot com a linguagem bd script (discord)
+obs: nem todos meus comandos então aqui, só deixei uns comandos básicos para ajudar vcs
 
 ## ;avatar
 ```bd
