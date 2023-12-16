@@ -1,2 +1,2 @@
 # scripts-bdfd
-meus scripts para bot com a linguagem bd script
+meus scripts para bot com a linguagem bd script (discord)
