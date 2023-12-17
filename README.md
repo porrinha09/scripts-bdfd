@@ -11,6 +11,7 @@ $color[a6d189]
 $description[Aqui está]
 $image[$userAvatar[$mentioned[<]]]
 $nomention
+$footer[Pedido por: $username]
 ```
 
 ## ;clear
@@ -60,6 +61,7 @@ $nomention
 $title[número aleatório:]
 $description[$randomText[0;10;20;30;40;50;60;70;80;90;100]]
 $color[a6d189]
+$footer[Pedido por: $username]
 ```
 
 ## ;server info
@@ -77,6 +79,7 @@ quantidade e boost: $boostCount
 dono: <@$serverOwner>
 
 e eu estou em $serverCount servidores
+$footer[Pedido por: $username]
 ```
 
 
@@ -108,6 +111,7 @@ $onlyAdmin[Apenas para admins!]
 $modifyChannelPerms[$channelID;-sendmessages;$guildID]
 $title[Canal de texto:]
 $description[Este canal foi trancado]
+$footer[Pedido por: $username]
 ```
 
 ## ;unlock
@@ -117,6 +121,7 @@ $onlyAdmin[Apenas para admins!]
 $modifyChannelPerms[$channelID;+sendmessages;$guildID]
 $title[Canal de texto]
 $description[Este canal foi destrancado]
+$footer[Pedido por: $username]
 ```
 
 
