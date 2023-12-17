@@ -1,6 +1,7 @@
 # scripts-bdfd
 meus scripts para bot com a linguagem bd script (discord)
 obs: nem todos meus comandos então aqui, só deixei uns comandos básicos para ajudar vcs
+(eu atualizo a metade dos scripts)
 
 ## ;avatar
 ```bd
@@ -52,7 +53,7 @@ $message
 $nomention
 $deletecommand
 $title[$message]
-$color[D47AAD]@
+$color[D47AAD]
 ```
 
 ## ;numero random
@@ -78,7 +79,7 @@ quantidade e categorias: $categoryCount
 quantidade e boost: $boostCount
 dono: <@$serverOwner>
 
-e eu estou em $serverCount servidores
+e eu estou em $serverCount servidores]
 $footer[Pedido por: $username]
 ```
 
